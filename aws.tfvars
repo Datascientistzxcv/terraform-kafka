@@ -1,0 +1,5 @@
+env             = "aws"
+provider_type   = "confluent"
+kubeconfig_path = "~/.kube/config"
+aws_region      = "us-east-1"
+aws_profile     = "shekhar-account"
