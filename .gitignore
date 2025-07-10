@@ -1,2 +1,5 @@
 .terraform/
 bin/
+.terraform/
+bin/
+confluent-control-center/.terraform/
